@@ -1,0 +1,12 @@
+body {
+    background-color: #66df66;
+}
+h1 {
+    color: #092b09;
+}
+.friend {
+    background-color: #940d0d;
+}
+.friend h3 {
+    text-transform: uppercase;
+}
